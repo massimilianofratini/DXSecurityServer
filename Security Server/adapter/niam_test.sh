@@ -1,0 +1,12 @@
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1000\\\"\\\"2345678\\\"\\\"DELPHIX\\\"\\\"ue020393\\\"\\\"OPERATOR\\\"\\\"cogn1\\\"\\\"nom1\\\"\\\"BO;PD\\\""
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1001\\\"\\\"2345679\\\"\\\"DELPHIX\\\"\\\"ue020394\\\"\\\"ADMINISTRATOR\\\"\\\"cogn2\\\"\\\"nom2\\\"\\\"CE\\\""
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1001\\\"\\\"2345680\\\"\\\"DELPHIX\\\"\\\"ue020395\\\"\\\"SUPERADMIN\\\"\\\"cogn3\\\"\\\"nom3\\\"\\\"PD\\\""
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1003\\\"\\\"2345681\\\"\\\"DELPHIX\\\"\\\"ue020396\\\"\\\"OPERATOR\\\"\\\"cogn4\\\"\\\"nom4\\\"\\\"BO;BA;PD\\\""
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1004\\\"\\\"2345682\\\"\\\"DELPHIX\\\"\\\"ue020397\\\"\\\"OPERATORE\\\"\\\"cogn5\\\"\\\"nom5\\\"\\\"CE\\\""
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1005\\\"\\\"2345683\\\"\\\"OPERA\\\"\\\"ue020398\\\"\\\"ADMINISTRATOR\\\"\\\"cogn6\\\"\\\"nom6\\\"\\\"CE\\\""
+./adapter.sh "\\\"Creazione_User_ID\\\"\\\"1006\\\"\\\"2345684\\\"\\\"DELPHIX\\\"\\\"ue020399\\\"\\\"ADMINISTRATOR\\\"\\\"cogn7\\\"\\\"nom7\\\"\\\"CE\\\""
+./adapter.sh "\\\"Cancellazione_User_ID\\\"\\\"1007\\\"\\\"2345678\\\"\\\"DELPHIX\\\"\\\"ue020393\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\""
+./adapter.sh "\\\"Cancellazione_User_ID\\\"\\\"1008\\\"\\\"2345680\\\"\\\"DELPHIX\\\"\\\"ue020395\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\""
+./adapter.sh "\\\"Sostituzione_Profilo\\\"\\\"1013\\\"\\\"2345682\\\"\\\"DELPHIX\\\"\\\"ue020397\\\"\\\"ADMINISTRATOR\\\"\\\"cogn5\\\"\\\"nom5\\\"\\\"CE\\\""
+./adapter.sh "\\\"Sostituzione_Profilo\\\"\\\"1014\\\"\\\"2345684\\\"\\\"DELPHIX\\\"\\\"ue020399\\\"\\\"SUPERADMIN\\\"\\\"cogn7\\\"\\\"nom7\\\"\\\"BO;CE\\\""
+
