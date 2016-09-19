@@ -1,0 +1,3797 @@
+[19-Mar-2016 06:01:09 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:01:09 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='ue020394' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:01:09 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:
+[19-Mar-2016 06:01:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: 
+[19-Mar-2016 06:01:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:01:16 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:01:16 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='ue020394' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:01:16 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:
+[19-Mar-2016 06:01:16 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: 
+[19-Mar-2016 06:01:16 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:01:53 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:01:53 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='ue020394' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:01:53 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:
+[19-Mar-2016 06:01:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: 
+[19-Mar-2016 06:01:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:02:25 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:02:25 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='ue020394' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:02:25 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:
+[19-Mar-2016 06:02:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: 
+[19-Mar-2016 06:02:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:02:43 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:02:43 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:02:43 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:02:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:02:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:04:58 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:04:58 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:04:58 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:04:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:04:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:05:03 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:05:03 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:05:03 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:05:03 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:05:03 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:06:59 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:06:59 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:06:59 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:06:59 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:06:59 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:39:52 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:39:52 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:39:52 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:39:52 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:39:52 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:40:01 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 06:40:01 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 06:40:01 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:40:01 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 06:40:01 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 09:47:39 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[19-Mar-2016 09:47:39 UTC] PHP Stack trace:
+[19-Mar-2016 09:47:39 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 09:47:39 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[19-Mar-2016 09:48:06 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[19-Mar-2016 09:48:06 UTC] PHP Stack trace:
+[19-Mar-2016 09:48:06 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 09:48:06 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[19-Mar-2016 11:23:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:23:56 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:23:56 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:23:56 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:23:56 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:24:22 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:24:22 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:24:22 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:24:22 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:24:22 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:26:34 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:26:34 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:26:34 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:26:34 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:26:34 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:27:42 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:27:42 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:27:42 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:27:42 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:27:42 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => BA
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:17]
+	pageURL: http://delphixdev.telecomitalia.local
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:31:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:17]
+	pageURL: http://delphixdev.telecomitalia.local
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:78]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.it
+            [internalname] => de1.internal
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:17]
+	pageURL: http://delphixdev.telecomitalia.local
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:31:50 Europe/Rome] [/var/www/DE/login2/securityportal.php:17]
+	pageURL: http://delphixdev.telecomitalia.local
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:37:58 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:43:55 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:54:19 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 11:54:23 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 12:06:09 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 12:09:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 16:30:45 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 16:31:47 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1
+            [internalname] => de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 16:46:53 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://delphixdev.telecomitalia.local/de1
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.local
+            [internalname] => internal.de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.local
+            [internalname] => internal.de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local/de1.delphix.telecomitalia.local
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:07:00 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local/de1.delphix.telecomitalia.local
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.local
+            [internalname] => internal.de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.local
+            [internalname] => internal.de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphix.telecomitalia.local
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:09:46 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphix.telecomitalia.local
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.local
+            [internalname] => internal.de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphix.telecomitalia.local
+            [internalname] => internal.de1.delphix.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphix.telecomitalia.local
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:09:48 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphix.telecomitalia.local
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:15:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:15:30 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:17:08 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:17:08 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:17:08 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:17:08 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:17:08 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:17:09 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:17:09 Europe/Rome] PHP Fatal error:  Cannot redeclare hex2bin() in /var/www/DE/login2/crypto.php on line 90
+[19-Mar-2016 19:17:09 Europe/Rome] PHP Stack trace:
+[19-Mar-2016 19:17:09 Europe/Rome] PHP   1. {main}() /var/www/DE/login2/loginSSO.php:0
+[19-Mar-2016 19:17:53 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:17:53 Europe/Rome] PHP Fatal error:  Cannot redeclare hex2bin() in /var/www/DE/login2/crypto.php on line 90
+[19-Mar-2016 19:17:53 Europe/Rome] PHP Stack trace:
+[19-Mar-2016 19:17:53 Europe/Rome] PHP   1. {main}() /var/www/DE/login2/loginSSO.php:0
+[19-Mar-2016 19:18:03 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:18:03 Europe/Rome] PHP Fatal error:  Cannot redeclare hex2bin() in /var/www/DE/login2/crypto.php on line 90
+[19-Mar-2016 19:18:03 Europe/Rome] PHP Stack trace:
+[19-Mar-2016 19:18:03 Europe/Rome] PHP   1. {main}() /var/www/DE/login2/loginSSO.php:0
+[19-Mar-2016 19:25:48 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:25:48 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:25:48 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:25:48 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:25:48 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:46]
+	server name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/engineList.php:54]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/loginSSO.php:22]
+	engine info: Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/loginSSO.php:38]
+	username:UE022451
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/loginSSO.php:40]
+	user profile:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/loginSSO.php:49]
+	encrypted password:c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/crypto.php:49]
+	DECRYPT base64 decoded:s—»·ßàI3ƒÈ–˜šÃteúí|…ð
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/crypto.php:58]
+	NONCESIZE:16
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/crypto.php:60]
+	NONCE:s—»·ßàI3ƒÈ–˜š
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/crypto.php:62]
+	DECRYPT ciphertext:Ãteúí|…ð
+[19-Mar-2016 19:25:49 Europe/Rome] [/var/www/DE/login2/loginSSO.php:64]
+	decrypted password:delphix_oper
+[19-Mar-2016 19:26:15 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:26:42 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:26:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:26:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:11 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:46]
+	server name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/engineList.php:54]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/loginSSO.php:22]
+	engine info: Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/loginSSO.php:38]
+	username:UE022451
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/loginSSO.php:40]
+	user profile:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_OPERATOR
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_oper
+    [de_password] => c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+)
+
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/loginSSO.php:49]
+	encrypted password:c42Xu7ff4EkzgwfIlpgPmgsYw3Rl+u18C4XwDg==
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/crypto.php:49]
+	DECRYPT base64 decoded:s—»·ßàI3ƒÈ–˜šÃteúí|…ð
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/crypto.php:58]
+	NONCESIZE:16
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/crypto.php:60]
+	NONCE:s—»·ßàI3ƒÈ–˜š
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/crypto.php:62]
+	DECRYPT ciphertext:Ãteúí|…ð
+[19-Mar-2016 19:27:12 Europe/Rome] [/var/www/DE/login2/loginSSO.php:64]
+	decrypted password:delphix_oper
+[19-Mar-2016 18:28:53 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, table roles_type has no column named dlpx_username in /var/www/DE/login2/create_roles.php on line 17
+[19-Mar-2016 18:28:53 UTC] PHP Stack trace:
+[19-Mar-2016 18:28:53 UTC] PHP   1. {main}() /var/www/DE/login2/create_roles.php:0
+[19-Mar-2016 18:28:53 UTC] PHP   2. SQLite3->query() /var/www/DE/login2/create_roles.php:17
+[19-Mar-2016 18:28:53 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, table roles_type has no column named dlpx_username in /var/www/DE/login2/create_roles.php on line 17
+[19-Mar-2016 18:28:53 UTC] PHP Stack trace:
+[19-Mar-2016 18:28:53 UTC] PHP   1. {main}() /var/www/DE/login2/create_roles.php:0
+[19-Mar-2016 18:28:53 UTC] PHP   2. SQLite3->query() /var/www/DE/login2/create_roles.php:17
+[19-Mar-2016 18:28:53 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, table roles_type has no column named dlpx_username in /var/www/DE/login2/create_roles.php on line 17
+[19-Mar-2016 18:28:53 UTC] PHP Stack trace:
+[19-Mar-2016 18:28:53 UTC] PHP   1. {main}() /var/www/DE/login2/create_roles.php:0
+[19-Mar-2016 18:28:53 UTC] PHP   2. SQLite3->query() /var/www/DE/login2/create_roles.php:17
+[19-Mar-2016 18:38:58 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, table roles_type has no column named dlpx_username in /var/www/DE/login2/create_roles.php on line 17
+[19-Mar-2016 18:38:58 UTC] PHP Stack trace:
+[19-Mar-2016 18:38:58 UTC] PHP   1. {main}() /var/www/DE/login2/create_roles.php:0
+[19-Mar-2016 18:38:58 UTC] PHP   2. SQLite3->query() /var/www/DE/login2/create_roles.php:17
+[19-Mar-2016 18:38:58 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, table roles_type has no column named dlpx_username in /var/www/DE/login2/create_roles.php on line 17
+[19-Mar-2016 18:38:58 UTC] PHP Stack trace:
+[19-Mar-2016 18:38:58 UTC] PHP   1. {main}() /var/www/DE/login2/create_roles.php:0
+[19-Mar-2016 18:38:58 UTC] PHP   2. SQLite3->query() /var/www/DE/login2/create_roles.php:17
+[19-Mar-2016 18:38:58 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, table roles_type has no column named dlpx_username in /var/www/DE/login2/create_roles.php on line 17
+[19-Mar-2016 18:38:58 UTC] PHP Stack trace:
+[19-Mar-2016 18:38:58 UTC] PHP   1. {main}() /var/www/DE/login2/create_roles.php:0
+[19-Mar-2016 18:38:58 UTC] PHP   2. SQLite3->query() /var/www/DE/login2/create_roles.php:17
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:42:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:32 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:32 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:32 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:32 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:32 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:46]
+	server name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/engineList.php:54]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/loginSSO.php:22]
+	engine info: Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/loginSSO.php:38]
+	username:UE022451
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/loginSSO.php:40]
+	user profile:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/loginSSO.php:49]
+	encrypted password:8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/crypto.php:49]
+	DECRYPT base64 decoded:ðÞ›-©PS,Hg!Ÿ9;øUŸOéú
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/crypto.php:58]
+	NONCESIZE:16
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/crypto.php:60]
+	NONCE:ðÞ›-©PS,Hg!Ÿ9;
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/crypto.php:62]
+	DECRYPT ciphertext:øUŸOéú
+[19-Mar-2016 19:42:33 Europe/Rome] [/var/www/DE/login2/loginSSO.php:64]
+	decrypted password:Pippo123
+[19-Mar-2016 19:43:28 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:43:37 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:48 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:54 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:46]
+	server name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/engineList.php:54]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/loginSSO.php:22]
+	engine info: Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/loginSSO.php:38]
+	username:UE022451
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/loginSSO.php:40]
+	user profile:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/loginSSO.php:49]
+	encrypted password:8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/crypto.php:49]
+	DECRYPT base64 decoded:ðÞ›-©PS,Hg!Ÿ9;øUŸOéú
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/crypto.php:58]
+	NONCESIZE:16
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/crypto.php:60]
+	NONCE:ðÞ›-©PS,Hg!Ÿ9;
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/crypto.php:62]
+	DECRYPT ciphertext:øUŸOéú
+[19-Mar-2016 19:43:56 Europe/Rome] [/var/www/DE/login2/loginSSO.php:64]
+	decrypted password:Pippo123
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: http://
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 80
+[19-Mar-2016 19:53:51 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: http://de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:53:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:53:56 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:53:56 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:53:56 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:53:56 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/loginSSO.php:23]
+	engine info: Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/loginSSO.php:39]
+	username:UE022451
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/loginSSO.php:41]
+	user profile:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/loginSSO.php:50]
+	encrypted password:8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/crypto.php:49]
+	DECRYPT base64 decoded:ðÞ›-©PS,Hg!Ÿ9;øUŸOéú
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/crypto.php:58]
+	NONCESIZE:16
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/crypto.php:60]
+	NONCE:ðÞ›-©PS,Hg!Ÿ9;
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/crypto.php:62]
+	DECRYPT ciphertext:øUŸOéú
+[19-Mar-2016 19:53:57 Europe/Rome] [/var/www/DE/login2/loginSSO.php:65]
+	decrypted password:Pippo123
+[19-Mar-2016 21:39:59 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 21:39:59 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 21:39:59 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 21:39:59 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 21:39:59 Europe/Rome] [/var/www/DE/login2/indexSSO.php:10]
+	internal engine:Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/engineList.php:25]
+	engine external name:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/engineList.php:31]
+	externalname:de1.delphixdev.telecomitalia.local
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/loginSSO.php:23]
+	engine info: Array
+(
+    [datacenter] => ORIOLO
+    [externalname] => de1.delphixdev.telecomitalia.local
+    [internalname] => internal.de1.delphixdev.telecomitalia.local
+    [internalip] => 10.13.223.180
+    [description] => DE C2 FE
+    [id] => 3
+    [internalport] => 80
+)
+
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/loginSSO.php:39]
+	username:UE022451
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/loginSSO.php:41]
+	user profile:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/loginSSO.php:50]
+	encrypted password:8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/crypto.php:49]
+	DECRYPT base64 decoded:ðÞ›-©PS,Hg!Ÿ9;øUŸOéú
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/crypto.php:58]
+	NONCESIZE:16
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/crypto.php:60]
+	NONCE:ðÞ›-©PS,Hg!Ÿ9;
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/crypto.php:62]
+	DECRYPT ciphertext:øUŸOéú
+[19-Mar-2016 21:40:04 Europe/Rome] [/var/www/DE/login2/loginSSO.php:65]
+	decrypted password:Pippo123
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:43:33 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:45:43 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:50:25 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:50:27 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:52:06 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/engineList.php:18]
+	engine list:Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:12]
+	query:select * from users,roles_type where username='UE022451' and status='ACTIVE' and users.role=roles_type.role
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/getUserInfo.php:17]
+	Row:Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:79]
+	user profile: Array
+(
+    [username] => UE022451
+    [password] => none
+    [role] => DELPHIX_ADMIN
+    [datacenter] => ORIOLO
+    [status] => ACTIVE
+    [de_username] => delphix_admin
+    [de_password] => 8N6bLROpD1BTLEhnIZ85OxH4AlWfT+n6
+)
+
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:80]
+	engine list: Array
+(
+    [0] => Array
+        (
+            [datacenter] => ORIOLO
+            [externalname] => de1.delphixdev.telecomitalia.local
+            [internalname] => internal.de1.delphixdev.telecomitalia.local
+            [internalip] => 10.13.223.180
+            [description] => DE C2 FE
+            [id] => 3
+            [internalport] => 80
+        )
+
+)
+
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:10]
+	pageURL: https://
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:11]
+	SERVER_PORT: 443
+[19-Mar-2016 22:52:08 Europe/Rome] [/var/www/DE/login2/securityportal.php:18]
+	pageURL: https://de1.delphixdev.telecomitalia.local:443
+[19-Mar-2016 22:57:57 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[19-Mar-2016 22:57:57 UTC] PHP Stack trace:
+[19-Mar-2016 22:57:57 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 22:57:57 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[19-Mar-2016 22:58:01 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[19-Mar-2016 22:58:01 UTC] PHP Stack trace:
+[19-Mar-2016 22:58:01 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 22:58:01 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[19-Mar-2016 22:58:01 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 4439
+[19-Mar-2016 22:58:01 UTC] PHP Stack trace:
+[19-Mar-2016 22:58:01 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 22:58:01 UTC] PHP   2. Database->getDate() /var/www/DE/login2/phpliteadmin.php:3647
+[19-Mar-2016 22:58:01 UTC] PHP   3. date() /var/www/DE/login2/phpliteadmin.php:4439
+[19-Mar-2016 22:58:04 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[19-Mar-2016 22:58:04 UTC] PHP Stack trace:
+[19-Mar-2016 22:58:04 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 22:58:04 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[19-Mar-2016 23:09:49 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[19-Mar-2016 23:09:49 UTC] PHP Stack trace:
+[19-Mar-2016 23:09:49 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[19-Mar-2016 23:09:49 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:29:19 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:29:19 UTC] PHP Stack trace:
+[20-Mar-2016 18:29:19 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:29:19 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:29:22 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:29:22 UTC] PHP Stack trace:
+[20-Mar-2016 18:29:22 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:29:22 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:29:22 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 4439
+[20-Mar-2016 18:29:22 UTC] PHP Stack trace:
+[20-Mar-2016 18:29:22 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:29:22 UTC] PHP   2. Database->getDate() /var/www/DE/login2/phpliteadmin.php:3647
+[20-Mar-2016 18:29:22 UTC] PHP   3. date() /var/www/DE/login2/phpliteadmin.php:4439
+[20-Mar-2016 18:29:24 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:29:24 UTC] PHP Stack trace:
+[20-Mar-2016 18:29:24 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:29:24 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:29:29 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:29:29 UTC] PHP Stack trace:
+[20-Mar-2016 18:29:29 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:29:29 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:32:42 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:32:42 UTC] PHP Stack trace:
+[20-Mar-2016 18:32:42 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:32:42 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:32:42 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 4439
+[20-Mar-2016 18:32:42 UTC] PHP Stack trace:
+[20-Mar-2016 18:32:42 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:32:42 UTC] PHP   2. Database->getDate() /var/www/DE/login2/phpliteadmin.php:3647
+[20-Mar-2016 18:32:42 UTC] PHP   3. date() /var/www/DE/login2/phpliteadmin.php:4439
+[20-Mar-2016 18:32:47 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:32:47 UTC] PHP Stack trace:
+[20-Mar-2016 18:32:47 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:32:47 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 18:32:50 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 18:32:50 UTC] PHP Stack trace:
+[20-Mar-2016 18:32:50 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 18:32:50 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 23:23:30 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 924
+[20-Mar-2016 23:23:30 UTC] PHP Stack trace:
+[20-Mar-2016 23:23:30 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 23:23:30 UTC] PHP   2. date() /var/www/DE/login2/phpliteadmin.php:924
+[20-Mar-2016 23:23:30 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/DE/login2/phpliteadmin.php on line 4439
+[20-Mar-2016 23:23:30 UTC] PHP Stack trace:
+[20-Mar-2016 23:23:30 UTC] PHP   1. {main}() /var/www/DE/login2/phpliteadmin.php:0
+[20-Mar-2016 23:23:30 UTC] PHP   2. Database->getDate() /var/www/DE/login2/phpliteadmin.php:3647
+[20-Mar-2016 23:23:30 UTC] PHP   3. date() /var/www/DE/login2/phpliteadmin.php:4439

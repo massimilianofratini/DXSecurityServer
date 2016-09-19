@@ -1,0 +1,1 @@
+<![CDATA[<Employee><AttributeAD name="RequestID" value="<requestid>" /><AttributeAD name="Result" value="<result>" /><AttributeAD name="Tipo" value="<tipo>" /><AttributeAD name="Sistema" value="<sistema>" /><AttributeAD name="ResultDetail" value="<resultdetail>" /></Employee>]]>
