@@ -1,0 +1,58 @@
+# DELPHIX Configuration
+# --------------
+NameVirtualHost *:80
+<VirtualHost *:80>
+    ServerName desecsrv.delphix.telecomitalia.local
+    UseCanonicalName On
+    UseCanonicalPhysicalPort On
+	
+    DocumentRoot /var/www/DE/
+    CustomLog /var/www/DE/log/access.log combined
+    ErrorLog /var/www/DE/log/error.log
+  
+    #ProxyRequests Off
+    #<Proxy *>
+    #    Order deny,allow
+    #    Allow from all
+    #</Proxy>
+    #ProxyPass /login2 !  
+    #ProxyPass /niam !  
+    #ProxyPass /usermgmt !  
+    #ProxyPass /login/index.html http://127.0.0.1:80/login2/indexSSO.php
+    #ProxyPassReverse /login/index.html http://127.0.0.1:80/login2/indexSSO.php
+    #ProxyPass / http://de1.internal/
+    #ProxyPassReverse / http://de1.internal/
+
+</VirtualHost>
+
+Listen 81
+<VirtualHost *:81>
+    ServerName de1.delphix.telecomitalia.local
+    UseCanonicalName On
+    UseCanonicalPhysicalPort On
+
+    DocumentRoot /var/www/DEX/
+    CustomLog /var/www/DEX/log/access.log combined
+    ErrorLog /var/www/DEX/log/error.log
+
+    ProxyPreserveHost On
+    ProxyRequests Off
+    <Proxy *>
+        Order deny,allow
+        Allow from all
+    </Proxy>
+
+    ProxyPass /login2 !
+    ProxyPass /niam !
+    ProxyPass /usermgmt !
+    ProxyPass /resources/json/delphix/login http://127.0.0.1:81/login2/loginSSO.php
+    ProxyPassReverse /resources/json/delphix/login http://127.0.0.1:81/login2/loginSSO.php
+    ProxyPass /resources/json/delphix/logout http://127.0.0.1:81/login2/logoutSSO.php
+    ProxyPassReverse /resources/json/delphix/logout http://127.0.0.1:81/login2/logoutSSO.php
+    ProxyPass /login/index.html http://127.0.0.1:81/login2/indexSSO.php
+    ProxyPassReverse /login/index.html http://127.0.0.1:81/login2/indexSSO.php
+    ProxyPass / http://de1.internal/
+    ProxyPassReverse / http://de1.internal/
+
+</VirtualHost>
+

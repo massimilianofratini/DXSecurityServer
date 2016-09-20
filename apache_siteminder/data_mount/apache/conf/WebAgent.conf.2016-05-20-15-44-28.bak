@@ -1,0 +1,21 @@
+# WebAgent.conf - configuration file for SiteMinder Web Agent
+# Web Agent Version = 12.51, Build = 1232, Update = 05
+
+LOCALE=en-US
+
+#agentname="<AgentName>, <IPAddress>"
+HostConfigFile="/data_mount/apache/CA/webagent/config/SmHost.conf"
+AgentConfigObject="delphix_aco"
+EnableWebAgent="YES"
+ServerPath="/data_mount/apache//conf"
+#localconfigfile="/data_mount/apache//conf/LocalConfig.conf"
+LoadPlugin="/data_mount/apache/CA/webagent/bin/libHttpPlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libAffiliate10Plugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libSAMLAffiliatePlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libeTSSOPlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libIntroscopePlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libSAMLDataPlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libOpenIDPlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libDisambiguatePlugin.so"
+#LoadPlugin="/data_mount/apache/CA/webagent/bin/libOAuthPlugin.so"
+AgentIdFile="/data_mount/apache/conf/AgentId.dat"
