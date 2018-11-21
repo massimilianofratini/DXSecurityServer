@@ -1,6 +1,8 @@
 <?php
 // Wrapper for ws call
-include_once 'mylogger.php';
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+
 
 function httpGet($url) 
 {

@@ -1,7 +1,9 @@
 <?php
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('crypto.php');
+require_once_common('conn.php');
 
-include 'crypto.php';
-include 'conn.php';
+
 
 $roles[0]=array('SUPERADMIN','sysadmin','Pippo.123');
 $roles[1]=array('ADMINISTRATOR','delphix_admin','Pippo123');

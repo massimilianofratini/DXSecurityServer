@@ -1,5 +1,6 @@
 <?php
-include_once '../config.php';
+require_once('../../../common/secsrv_includes/config.php');
+
 
 // The URL to POST to
 $url = Cfg::NIAM_WSURL;

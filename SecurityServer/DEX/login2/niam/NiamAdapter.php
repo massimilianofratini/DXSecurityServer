@@ -6,8 +6,9 @@
 //	Cancellazione_User_ID	-->  params 1-2-3-4-5
 //	Sostituzione_Profilo	-->  params 1-2-3-4-5-6- - -9
 
-include '../mylogger.php';
-include '../conn.php';
+require_once('../../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
 
 if (isset($_GET['niamrequest']))
 	$params=$_GET['niamrequest'];

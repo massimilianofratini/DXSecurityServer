@@ -22,8 +22,9 @@ DATA MASK	msk_readonly	    PD_DMmskPD01_XBSM
 //	Creazione_User_ID 	-->  params 1-2-3-4-5-6-7-8-9
 //	Cancellazione_User_ID	-->  params 1-2-3-4-5
 //	Sostituzione_Profilo	-->  params 1-2-3-4-5-6- - -9
-include '../mylogger.php';
-include '../conn.php';
+require_once('../../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
 
 $conn = ConnectionFactory::getFactory()->getConnection();
 $sql = "select * from niam where opstatus='REQUESTED'";

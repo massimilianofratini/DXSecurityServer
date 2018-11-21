@@ -1,6 +1,7 @@
-<?php 
-include 'mylogger.php';
-include 'conn.php';
+<?php
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
 
 	$conn = ConnectionFactory::getFactory()->getConnection();
 	$rs = $conn->query("select * from status_type");

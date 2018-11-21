@@ -1,6 +1,7 @@
 <?php
-include 'crypto.php';
-include 'conn.php';
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
 
 $username = htmlspecialchars($_REQUEST['username']);
 $password = htmlspecialchars($_REQUEST['password']);

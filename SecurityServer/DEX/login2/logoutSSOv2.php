@@ -1,9 +1,13 @@
 <?php
 session_start();
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('sessionInfo.php');
 
-include_once 'sessionInfo.php';
-include_once 'mylogger.php';
-include_once 'config.php';
+
+//include_once 'sessionInfo.php';
+//include_once 'mylogger.php';
+//include_once 'config.php';
 
 
 #check if logout is in progress

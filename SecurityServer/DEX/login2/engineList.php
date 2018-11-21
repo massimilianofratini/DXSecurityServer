@@ -1,6 +1,7 @@
-<?php 
-require_once 'conn.php';
-require_once 'mylogger.php';
+<?php
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
 
 //Load list of engines
 $engines = getEngineList();

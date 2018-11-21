@@ -1,6 +1,8 @@
 <?php
-include 'conn.php';
-		
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
+
 	$page = isset($_POST['page']) ? intval($_POST['page']) : 1;
 	$rows = isset($_POST['rows']) ? intval($_POST['rows']) : 10;
 	$offset = ($page-1)*$rows;

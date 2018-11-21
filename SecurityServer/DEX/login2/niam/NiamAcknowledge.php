@@ -3,10 +3,11 @@ ini_set('memory_limit','512M');
 ini_set('display_errors',true);
 error_reporting(-1);
 
-include_once '../config.php';
-require_once dirname(__FILE__) . '/NiamAutoload.php';
-require_once '../mylogger.php';
-require_once '../conn.php';
+require_once('../../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('conn.php');
+require_once __DIR__ . '/NiamAutoload.php';
+
 
 $wsdl = array();
 $wsdl[NiamWsdlClass::WSDL_URL] = Cfg::NIAM_WSDL;

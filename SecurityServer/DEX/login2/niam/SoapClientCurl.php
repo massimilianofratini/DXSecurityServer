@@ -23,7 +23,9 @@
  * $client->Method($data);
  * 
  */
-require_once '../mylogger.php';
+require_once('../../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+
 
 class SoapClientCurl extends SoapClient{
 

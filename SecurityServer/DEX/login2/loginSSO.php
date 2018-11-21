@@ -1,10 +1,13 @@
 <?php 
 session_start();
 
-include 'engineList.php';
-include 'getUserInfo.php';	 
-include 'crypto.php';
-include_once 'mylogger.php';
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once_common('crypto.php');
+
+require_once(__DIR__ . '/engineList.php');
+require_once(__DIR__ . '/getUserInfo.php');
+
 
 $key = myhex2bin(Crypto::SEED);
 

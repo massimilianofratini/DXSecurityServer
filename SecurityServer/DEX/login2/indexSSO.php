@@ -1,8 +1,9 @@
 <?php
 session_start();
 
-include_once 'engineList.php';
-include_once 'mylogger.php';
+require_once('../../common/secsrv_includes/config.php');
+require_once_common('mylogger.php');
+require_once(__DIR__ . '/engineList.php');
 
 #check if logout is in progress
 if ( isset($_SESSION["logoutinprogress"]))
