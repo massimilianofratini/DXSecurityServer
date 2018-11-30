@@ -41,7 +41,5 @@ Class Cfg {
 
 }
 
-function require_once_common ($inc_file) {
-    require_once(Cfg::INSTALL_DIR . '/common/secsrv_includes/' . $inc_file);
-}
+
 ?>

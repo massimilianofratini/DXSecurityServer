@@ -1,0 +1,185 @@
+{
+   "results" : [
+      {
+         "Last Run" : "N/A",
+         "Status" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Next run" : "N/A",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self replica",
+         "Replication target" : "10.5.5.67",
+         "Run Time" : "N/A"
+      },
+      {
+         "Run Time" : "N/A",
+         "Replication target" : "10.5.5.67",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self replica",
+         "Enable" : "DISABLED",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Next run" : "N/A",
+         "Status" : "N/A",
+         "Last Run" : "N/A"
+      },
+      {
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self replica",
+         "Replication target" : "10.5.5.67",
+         "Run Time" : "N/A",
+         "Last Run" : "N/A",
+         "Status" : "N/A",
+         "Enable" : "DISABLED",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Next run" : "N/A"
+      },
+      {
+         "Profile name" : "self replica",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Run Time" : "N/A",
+         "Replication target" : "10.5.5.67",
+         "Last Run" : "N/A",
+         "Next run" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Status" : "N/A"
+      },
+      {
+         "Profile name" : "self replica",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Replication target" : "10.5.5.67",
+         "Run Time" : "N/A",
+         "Last Run" : "N/A",
+         "Status" : "N/A",
+         "Next run" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED"
+      },
+      {
+         "Objects" : "SOE",
+         "Appliance" : "Landshark",
+         "Profile name" : "self replica",
+         "Run Time" : "N/A",
+         "Replication target" : "10.5.5.67",
+         "Last Run" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Next run" : "N/A",
+         "Status" : "N/A"
+      },
+      {
+         "Run Time" : "N/A",
+         "Replication target" : "10.5.5.67",
+         "Profile name" : "self replica",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Next run" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Status" : "N/A",
+         "Last Run" : "N/A"
+      },
+      {
+         "Enable" : "DISABLED",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Next run" : "2018-12-01 00:00:00",
+         "Status" : "COMPLETED",
+         "Last Run" : "2018-11-30 03:26:07 PST",
+         "Run Time" : "00:04:37",
+         "Replication target" : "100.26.51.174",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self"
+      },
+      {
+         "Last Run" : "N/A",
+         "Status" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Next run" : "N/A",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self replica",
+         "Replication target" : "10.0.1.10",
+         "Run Time" : "N/A"
+      },
+      {
+         "Profile name" : "self replica",
+         "Objects" : "SOE",
+         "Appliance" : "Landshark",
+         "Run Time" : "N/A",
+         "Replication target" : "10.0.1.10",
+         "Last Run" : "N/A",
+         "Next run" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Status" : "N/A"
+      },
+      {
+         "Last Run" : "N/A",
+         "Status" : "N/A",
+         "Next run" : "N/A",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Profile name" : "self replica",
+         "Objects" : "SOE",
+         "Appliance" : "Landshark",
+         "Replication target" : "127.0.0.1",
+         "Run Time" : "N/A"
+      },
+      {
+         "Status" : "N/A",
+         "Enable" : "DISABLED",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Next run" : "N/A",
+         "Last Run" : "N/A",
+         "Replication target" : "127.0.0.1",
+         "Run Time" : "N/A",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self replica"
+      },
+      {
+         "Objects" : "SOE",
+         "Appliance" : "Landshark",
+         "Profile name" : "self replica",
+         "Run Time" : "N/A",
+         "Replication target" : "127.0.0.1",
+         "Last Run" : "N/A",
+         "Enable" : "DISABLED",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Next run" : "N/A",
+         "Status" : "N/A"
+      },
+      {
+         "Run Time" : "N/A",
+         "Replication target" : "10.5.5.67",
+         "Appliance" : "Landshark",
+         "Objects" : "SOE",
+         "Profile name" : "self replica",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Enable" : "DISABLED",
+         "Next run" : "N/A",
+         "Status" : "N/A",
+         "Last Run" : "N/A"
+      },
+      {
+         "Objects" : "SOE",
+         "Appliance" : "Landshark",
+         "Profile name" : "self replica",
+         "Replication target" : "10.5.5.67",
+         "Run Time" : "N/A",
+         "Last Run" : "N/A",
+         "Status" : "N/A",
+         "Enable" : "DISABLED",
+         "Schedule" : "on 00 min on 00 h daily ",
+         "Next run" : "N/A"
+      }
+   ]
+}
+

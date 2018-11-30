@@ -6,7 +6,7 @@
 //	Cancellazione_User_ID	-->  params 1-2-3-4-5
 //	Sostituzione_Profilo	-->  params 1-2-3-4-5-6- - -9
 
-require_once('../../../common/secsrv_includes/config.php');
+require_once(__DIR__ . '/../../../common/secsrv_includes/config.php');
 require_once_common('mylogger.php');
 require_once_common('conn.php');
 

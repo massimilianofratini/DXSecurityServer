@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "home phone" : "",
+         "First Name" : "",
+         "admin_priv" : "S",
+         "password" : "password",
+         "Appliance" : "Landshark",
+         "js_user" : "N",
+         "Email" : "sysadmin@example.com",
+         "principal" : "",
+         "Username" : "sysadmin",
+         "Authtype" : "NATIVE",
+         "work phone" : "",
+         "mobile phone" : "",
+         "Last Name" : ""
+      },
+      {
+         "home phone" : "",
+         "First Name" : "",
+         "password" : "password",
+         "admin_priv" : "Y",
+         "Appliance" : "Landshark",
+         "js_user" : "N",
+         "Email" : "delphix@example.com",
+         "principal" : "",
+         "Username" : "delphix_admin",
+         "Authtype" : "NATIVE",
+         "mobile phone" : "",
+         "work phone" : "",
+         "Last Name" : ""
+      },
+      {
+         "admin_priv" : "Y",
+         "password" : "password",
+         "Appliance" : "Landshark",
+         "js_user" : "N",
+         "home phone" : "",
+         "First Name" : "LabAlchemy",
+         "Authtype" : "NATIVE",
+         "work phone" : "",
+         "mobile phone" : "",
+         "Last Name" : "Administrator",
+         "Email" : "labadmin@example.com",
+         "principal" : "",
+         "Username" : "labadmin"
+      },
+      {
+         "js_user" : "Y",
+         "admin_priv" : "N",
+         "password" : "password",
+         "Appliance" : "Landshark",
+         "First Name" : "",
+         "home phone" : "",
+         "Last Name" : "",
+         "work phone" : "",
+         "Authtype" : "NATIVE",
+         "mobile phone" : "",
+         "principal" : "",
+         "Username" : "dev",
+         "Email" : "dev@example.com"
+      },
+      {
+         "Authtype" : "NATIVE",
+         "work phone" : "",
+         "mobile phone" : "",
+         "Last Name" : "",
+         "Email" : "qa@example.com",
+         "principal" : "",
+         "Username" : "qa",
+         "admin_priv" : "N",
+         "password" : "password",
+         "Appliance" : "Landshark",
+         "js_user" : "Y",
+         "home phone" : "",
+         "First Name" : ""
+      },
+      {
+         "Authtype" : "NATIVE",
+         "work phone" : "",
+         "mobile phone" : "",
+         "Last Name" : "",
+         "Email" : "labsys@example.com",
+         "principal" : "",
+         "Username" : "labsys",
+         "admin_priv" : "S",
+         "password" : "password",
+         "Appliance" : "Landshark",
+         "js_user" : "N",
+         "home phone" : "",
+         "First Name" : ""
+      }
+   ]
+}
+

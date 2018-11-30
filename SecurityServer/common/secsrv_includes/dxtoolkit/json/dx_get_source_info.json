@@ -1,0 +1,29 @@
+{
+   "results" : [
+      {
+         "BCT" : "ENABLED",
+         "Database" : "orcl",
+         "Group" : "DB Sources",
+         "Appliance" : "Landshark",
+         "Log Sync" : "ACTIVE",
+         "Data Source" : "orcl"
+      },
+      {
+         "Log Sync" : "INACTIVE",
+         "Appliance" : "Landshark",
+         "Data Source" : "orcl12",
+         "Group" : "DB Sources",
+         "BCT" : "UNKNOWN",
+         "Database" : "orcl12"
+      },
+      {
+         "Group" : "DB Sources",
+         "Data Source" : "SOE",
+         "Appliance" : "Landshark",
+         "Log Sync" : "INACTIVE",
+         "BCT" : "DISABLED",
+         "Database" : "SOE"
+      }
+   ]
+}
+

@@ -1,0 +1,17 @@
+{
+   "results" : [
+      {
+         "Free (GB)" : "13.00",
+         "Total (GB)" : "21.80",
+         "VDBs#" : 2,
+         "Appliance" : "Landshark",
+         "Status" : "UP",
+         "dSource#" : 5,
+         "PctUsed(%)" : "0.40",
+         "Used (GB)" : "8.80",
+         "Total Objects" : 7,
+         "Version" : "5.3.0.0"
+      }
+   ]
+}
+

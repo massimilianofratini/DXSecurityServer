@@ -1,0 +1,1741 @@
+{
+   "results" : [
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-23 05:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-23 06:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-23 07:00:00 PST"
+      },
+      {
+         "StartTime" : "2018-11-23 08:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-23 09:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-23 10:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-23 11:00:00 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-23 12:00:00 PST"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-23 13:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-23 14:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "StartTime" : "2018-11-23 15:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-23 16:00:00 PST",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-23 17:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "StartTime" : "2018-11-23 18:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-23 19:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-23 20:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-23 21:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "StartTime" : "2018-11-23 22:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-23 23:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-24 00:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-24 01:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-24 02:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-24 03:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-24 03:30:00 PST",
+         "User or Policy" : "default snapshot",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"qadb\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "default snapshot",
+         "StartTime" : "2018-11-24 03:30:00 PST",
+         "Details" : "Run SnapSync for database \"devdb\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-24 04:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-24 05:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-24 06:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-24 07:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-24 08:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-24 09:00:00 PST"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-24 10:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-24 11:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-24 12:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-24 13:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-24 14:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "StartTime" : "2018-11-24 15:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-24 16:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-24 17:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-24 18:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-24 19:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-24 20:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-24 21:00:00 PST"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-24 22:00:00 PST"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-24 23:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 00:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-25 01:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-25 02:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-25 03:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "User or Policy" : "default snapshot",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-25 03:30:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"qadb\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"devdb\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "default snapshot",
+         "StartTime" : "2018-11-25 03:30:00 PST"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 04:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 05:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-25 06:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-25 07:00:00 PST"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 08:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-25 09:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-25 10:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 11:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-25 12:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-25 13:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 14:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-25 15:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 16:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-25 17:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-25 18:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-25 19:00:00 PST"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-25 20:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-25 21:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-25 22:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-25 23:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-26 00:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-26 01:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-26 02:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-26 03:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "default snapshot",
+         "StartTime" : "2018-11-26 03:30:00 PST",
+         "Details" : "Run SnapSync for database \"devdb\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "default snapshot",
+         "StartTime" : "2018-11-26 03:30:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"qadb\"."
+      },
+      {
+         "StartTime" : "2018-11-26 04:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 05:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-26 06:00:00 PST"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-26 07:00:00 PST",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 08:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 09:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-26 10:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 11:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-26 12:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-26 13:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 14:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 15:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-26 16:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 17:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-26 18:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-26 19:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-26 20:00:00 PST",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-26 21:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-26 22:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-26 23:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 00:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 01:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-27 02:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "StartTime" : "2018-11-27 03:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"qadb\".",
+         "StartTime" : "2018-11-27 03:30:00 PST",
+         "User or Policy" : "default snapshot",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"devdb\".",
+         "StartTime" : "2018-11-27 03:30:00 PST",
+         "User or Policy" : "default snapshot",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 04:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-27 05:00:00 PST"
+      },
+      {
+         "StartTime" : "2018-11-27 06:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-27 07:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 08:00:00 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-27 09:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-27 10:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 11:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 12:00:00 PST"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-27 13:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-27 14:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-27 15:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-27 16:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 17:00:00 PST",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 18:00:00 PST",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-27 19:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-27 20:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-27 21:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-27 22:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-27 23:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-28 00:00:00 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-28 01:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-28 02:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 03:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "Details" : "Run SnapSync for database \"devdb\".",
+         "State" : "FAILED",
+         "Appliance" : "Landshark",
+         "User or Policy" : "default snapshot",
+         "StartTime" : "2018-11-28 03:30:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "default snapshot",
+         "StartTime" : "2018-11-28 03:30:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "FAILED",
+         "Details" : "Run SnapSync for database \"qadb\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 04:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-28 05:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 06:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-28 07:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 08:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-28 09:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "StartTime" : "2018-11-28 10:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 11:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-28 12:00:00 PST"
+      },
+      {
+         "StartTime" : "2018-11-28 13:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-28 14:00:00 PST",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 15:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-28 16:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-28 17:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-28 18:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-28 19:00:00 PST"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-28 20:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "StartTime" : "2018-11-28 21:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-28 22:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-28 23:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 00:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "StartTime" : "2018-11-29 01:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 02:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 03:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "FAILED",
+         "Details" : "Run SnapSync for database \"qadb\".",
+         "User or Policy" : "default snapshot",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-29 03:30:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "FAILED",
+         "Details" : "Run SnapSync for database \"devdb\".",
+         "User or Policy" : "default snapshot",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-29 03:30:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-29 04:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 05:00:00 PST"
+      },
+      {
+         "StartTime" : "2018-11-29 06:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 07:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 08:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 09:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 10:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-29 10:51:39 PST",
+         "Type" : "USER_LOGIN",
+         "State" : "COMPLETED",
+         "Details" : "Log in as user \"delphix_admin\" from IP \"62.23.136.134\"."
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-29 11:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-29 12:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 13:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 14:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 15:00:00 PST",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-29 16:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "StartTime" : "2018-11-29 17:00:00 PST",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 18:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "StartTime" : "2018-11-29 19:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 20:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-29 21:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "StartTime" : "2018-11-29 22:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "Type" : "DB_SYNC",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "Type" : "DB_SYNC",
+         "StartTime" : "2018-11-29 23:00:00 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync"
+      },
+      {
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 00:00:00 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 01:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "hourly snapsync",
+         "StartTime" : "2018-11-30 02:00:00 PST",
+         "Type" : "DB_SYNC",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Log in as user \"delphix_admin\" from IP \"62.23.136.134\".",
+         "StartTime" : "2018-11-30 02:35:07 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "Type" : "USER_LOGIN"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 02:35:16 PST",
+         "Type" : "MASKING_SERVICE_CHECK_LOCAL_STATUS",
+         "Details" : "Get status of local Masking Service.",
+         "State" : "COMPLETED"
+      },
+      {
+         "Details" : "Fetching all Masking Jobs from \"localhost\".",
+         "State" : "COMPLETED",
+         "Type" : "MASKINGJOB_FETCH",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 02:35:17 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Create database template \"test CDB\".",
+         "Type" : "DB_TEMPLATE_CREATE",
+         "StartTime" : "2018-11-30 02:36:58 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Log in as user \"delphix_admin\" from IP \"127.0.0.1\".",
+         "Type" : "USER_LOGIN",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 02:41:05 PST"
+      },
+      {
+         "Details" : "Detach source \"SOE\" from database \"SOE\".",
+         "State" : "COMPLETED",
+         "Type" : "DB_DETACH_SOURCE",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 02:53:18 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Attach source \"SOE\" to database \"SOE\".",
+         "Type" : "DB_ATTACH_SOURCE",
+         "StartTime" : "2018-11-30 02:54:22 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\".",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 03:00:00 PST",
+         "Type" : "DB_SYNC"
+      },
+      {
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 03:23:37 PST",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"100.26.51.174\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"100.26.51.174\".",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "StartTime" : "2018-11-30 03:24:05 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin"
+      },
+      {
+         "Details" : "Create replication specification for target host \"10.0.1.10\".",
+         "State" : "COMPLETED",
+         "StartTime" : "2018-11-30 03:24:19 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "Type" : "REPLICATION_SPEC_CREATE"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:24:34 PST",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.0.1.10\"."
+      },
+      {
+         "Details" : "Create replication specification for target host \"127.0.0.1\".",
+         "State" : "COMPLETED",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:24:43 PST"
+      },
+      {
+         "StartTime" : "2018-11-30 03:24:45 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"127.0.0.1\"."
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:24:46 PST",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"127.0.0.1\"."
+      },
+      {
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:24:53 PST",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.5.5.67\"."
+      },
+      {
+         "Details" : "Create replication specification for target host \"10.5.5.67\".",
+         "State" : "COMPLETED",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "StartTime" : "2018-11-30 03:24:53 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:24:54 PST",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.5.5.67\"."
+      },
+      {
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 03:24:54 PST",
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.5.5.67\"."
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.5.5.67\".",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "StartTime" : "2018-11-30 03:24:54 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.5.5.67\".",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:24:54 PST"
+      },
+      {
+         "StartTime" : "2018-11-30 03:24:54 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "Details" : "Create replication specification for target host \"10.5.5.67\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Create replication specification for target host \"10.5.5.67\".",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "StartTime" : "2018-11-30 03:24:54 PST",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark"
+      },
+      {
+         "StartTime" : "2018-11-30 03:24:54 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "Details" : "Create replication specification for target host \"10.5.5.67\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Type" : "MASKING_SERVICE_CHECK_LOCAL_STATUS",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "StartTime" : "2018-11-30 03:25:15 PST",
+         "Details" : "Get status of local Masking Service.",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Fetching all Masking Jobs from \"localhost\".",
+         "Type" : "MASKINGJOB_FETCH",
+         "StartTime" : "2018-11-30 03:25:16 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin"
+      },
+      {
+         "Details" : "Create replication specification for target host \"100.26.51.174\".",
+         "State" : "COMPLETED",
+         "Type" : "REPLICATION_SPEC_CREATE",
+         "StartTime" : "2018-11-30 03:25:53 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Send replication update to target \"100.26.51.174\".",
+         "StartTime" : "2018-11-30 03:26:07 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "Type" : "REPLICATION_SEND"
+      },
+      {
+         "StartTime" : "2018-11-30 03:26:25 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "internal",
+         "Type" : "REPLICATION_RECEIVE",
+         "State" : "FAILED",
+         "Details" : "Receive replication update from source \"ip-10-0-1-10\"."
+      },
+      {
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 03:27:03 PST",
+         "Type" : "REPLICATION_SPEC_DELETE",
+         "Details" : "Delete replication specification for target host \"100.26.51.174\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Delete replication specification for target host \"100.26.51.174\".",
+         "User or Policy" : "delphix_admin",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 03:27:24 PST",
+         "Type" : "REPLICATION_SPEC_DELETE"
+      },
+      {
+         "Details" : "Receive replication update from source \"ip-10-0-1-10\".",
+         "State" : "COMPLETED",
+         "Type" : "REPLICATION_RECEIVE",
+         "Appliance" : "Landshark",
+         "User or Policy" : "internal",
+         "StartTime" : "2018-11-30 03:30:28 PST"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Resume from storage usage threshold for \"orcl12\".",
+         "Type" : "SOURCE_RESUME_USAGE_THRESHOLD",
+         "StartTime" : "2018-11-30 03:31:16 PST",
+         "User or Policy" : "internal",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Type" : "SOURCE_RESUME_USAGE_THRESHOLD",
+         "StartTime" : "2018-11-30 03:31:16 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "internal",
+         "Details" : "Resume from storage usage threshold for \"SOE\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "Appliance" : "Landshark",
+         "User or Policy" : "internal",
+         "StartTime" : "2018-11-30 03:31:16 PST",
+         "Type" : "SOURCE_RESUME_USAGE_THRESHOLD",
+         "Details" : "Resume from storage usage threshold for \"orcl12\".",
+         "State" : "COMPLETED"
+      },
+      {
+         "State" : "COMPLETED",
+         "Details" : "Resume from storage usage threshold for \"SOE\".",
+         "Type" : "SOURCE_RESUME_USAGE_THRESHOLD",
+         "StartTime" : "2018-11-30 03:31:16 PST",
+         "User or Policy" : "internal",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Type" : "DB_SYNC",
+         "User or Policy" : "hourly snapsync",
+         "Appliance" : "Landshark",
+         "StartTime" : "2018-11-30 04:00:00 PST",
+         "State" : "COMPLETED",
+         "Details" : "Run SnapSync for database \"orcl\"."
+      },
+      {
+         "Type" : "USER_LOGIN",
+         "StartTime" : "2018-11-30 04:04:53 PST",
+         "Appliance" : "Landshark",
+         "User or Policy" : "delphix_admin",
+         "Details" : "Log in as user \"delphix_admin\" from IP \"62.23.136.134\".",
+         "State" : "COMPLETED"
+      }
+   ]
+}
+

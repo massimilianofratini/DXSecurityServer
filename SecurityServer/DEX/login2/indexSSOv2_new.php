@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once('../../common/secsrv_includes/config.php');
+require_once(__DIR__ . '/../../common/secsrv_includes/config.php');
 require_once_common('mylogger.php');
 require_once_common('sessionInfo.php');
 require_once_common('crypto.php');

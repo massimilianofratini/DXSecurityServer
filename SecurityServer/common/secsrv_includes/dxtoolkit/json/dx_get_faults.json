@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "Title" : "Command exited with a non-zero status",
+         "Status" : "ACTIVE",
+         "Appliance" : "Landshark",
+         "Fault ref" : "FAULT-16",
+         "Target" : "10.0.1.30",
+         "Severity" : "WARNING",
+         "Date Diagnosed" : "2018-11-27 16:14:03 PST"
+      },
+      {
+         "Status" : "RESOLVED",
+         "Title" : "OS user cannot execute sqlplus",
+         "Appliance" : "Landshark",
+         "Fault ref" : "FAULT-17",
+         "Target" : "/u02/app/oracle/product/12.2.0/dbhome_1",
+         "Severity" : "WARNING",
+         "Date Diagnosed" : "2018-11-27 16:24:07 PST"
+      },
+      {
+         "Target" : "/u02/app/oracle/product/12.2.0/dbhome_1",
+         "Severity" : "WARNING",
+         "Date Diagnosed" : "2018-11-27 16:24:07 PST",
+         "Status" : "RESOLVED",
+         "Title" : "OS user cannot execute RMAN",
+         "Appliance" : "Landshark",
+         "Fault ref" : "FAULT-18"
+      },
+      {
+         "Target" : "/u02/app/oracle/product/12.2.0/dbhome_1",
+         "Date Diagnosed" : "2018-11-28 16:34:06 PST",
+         "Severity" : "WARNING",
+         "Status" : "RESOLVED",
+         "Title" : "OS user cannot execute sqlplus",
+         "Fault ref" : "FAULT-19",
+         "Appliance" : "Landshark"
+      },
+      {
+         "Title" : "OS user cannot execute RMAN",
+         "Status" : "RESOLVED",
+         "Fault ref" : "FAULT-20",
+         "Appliance" : "Landshark",
+         "Target" : "/u02/app/oracle/product/12.2.0/dbhome_1",
+         "Date Diagnosed" : "2018-11-28 16:34:06 PST",
+         "Severity" : "WARNING"
+      },
+      {
+         "Severity" : "WARNING",
+         "Date Diagnosed" : "2018-11-29 16:44:05 PST",
+         "Target" : "/u02/app/oracle/product/12.2.0/dbhome_1",
+         "Fault ref" : "FAULT-21",
+         "Appliance" : "Landshark",
+         "Status" : "RESOLVED",
+         "Title" : "OS user cannot execute sqlplus"
+      },
+      {
+         "Status" : "RESOLVED",
+         "Title" : "OS user cannot execute RMAN",
+         "Appliance" : "Landshark",
+         "Fault ref" : "FAULT-22",
+         "Target" : "/u02/app/oracle/product/12.2.0/dbhome_1",
+         "Severity" : "WARNING",
+         "Date Diagnosed" : "2018-11-29 16:44:05 PST"
+      }
+   ]
+}
+

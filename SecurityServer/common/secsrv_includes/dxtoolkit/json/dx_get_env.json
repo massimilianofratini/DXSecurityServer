@@ -1,0 +1,19 @@
+{
+   "results" : [
+      {
+         "Status" : "enabled",
+         "Appliance" : "Landshark",
+         "OS Version" : "CentOS release 6.7 (Final)",
+         "Environment Name" : "Source",
+         "Type" : "unix"
+      },
+      {
+         "Status" : "enabled",
+         "Appliance" : "Landshark",
+         "Environment Name" : "Target",
+         "OS Version" : "CentOS release 6.7 (Final)",
+         "Type" : "unix"
+      }
+   ]
+}
+

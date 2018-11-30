@@ -1,0 +1,19 @@
+{
+   "results" : [
+      {
+         "Database" : "devdb",
+         "Group" : "DB Targets",
+         "Replica" : "NO",
+         "Engine" : "Landshark",
+         "Size [GB]" : "      0.32"
+      },
+      {
+         "Database" : "qadb",
+         "Group" : "DB Targets",
+         "Replica" : "NO",
+         "Engine" : "Landshark",
+         "Size [GB]" : "      0.32"
+      }
+   ]
+}
+

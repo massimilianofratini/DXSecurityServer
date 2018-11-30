@@ -1,5 +1,5 @@
 <?php
-require_once('../../../common/secsrv_includes/config.php');
+require_once(__DIR__ . '/../../../common/secsrv_includes/config.php');
 
 
 // The URL to POST to

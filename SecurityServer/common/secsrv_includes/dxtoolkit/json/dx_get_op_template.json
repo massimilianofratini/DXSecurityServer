@@ -1,0 +1,10 @@
+{
+   "results" : [
+      {
+         "type" : "BASH",
+         "name" : "APP USER",
+         "command" : "$ORACLE_HOME/bin/sqlplus / as sysdba << EOF  <cr>create user appuser identified by appuser;  <cr>grant connect, resource to appuser;  <cr>exit;  <cr>EOF"
+      }
+   ]
+}
+

@@ -1,0 +1,33 @@
+
+cd dxtoolkit/
+
+./dx_get_appliance -configfile dxtools.conf.agile -all -format json > dx_get_appliance.json
+
+./dx_get_audit -configfile dxtools.conf.agile -all -format json > dx_get_audit.json
+
+./dx_get_capacity -configfile dxtools.conf.agile -type vdb|source -all -format json > dx_get_capacity.json
+
+./dx_get_db_env -configfile dxtools.conf.agile -all -format json > dx_get_db_env.json
+
+./dx_get_env -configfile dxtools.conf.agile -all -format json > dx_get_env.json
+
+./dx_get_faults -configfile dxtools.conf.agile -all -format json > dx_get_faults.json
+
+./dx_get_instance -configfile dxtools.conf.agile -all -format json > dx_get_instance.json
+
+./dx_get_instance -configfile dxtools.conf.agile -all
+
+./dx_get_jobs -configfile dxtools.conf.agile -all -format json > dx_get_jobs.json
+
+./dx_get_op_template -configfile dxtools.conf.agile -all -format json > dx_get_op_template.json
+
+./dx_get_users -configfile dxtools.conf.agile -all -format json > dx_get_users.json
+
+mkdir templates
+mkdir templates/agile
+./dx_get_template -configfile dxtools.conf.agile -all -export -outdir ./templates/agile -format json > dx_get_template.json
+
+./dx_get_source_info -configfile dxtools.conf.agile -all -format json > dx_get_source_info.json
+
+./dx_get_replication -configfile dxtools.conf.agile -all -format json > dx_get_replication.json
+
