@@ -131,7 +131,7 @@ require_once(__DIR__ . '/config.php');
 require_once_common('conn.php');
 require_once_common('mylogger.php');
 
-class DXT
+class DXToolkit
 {
     private $dxtPath = Cfg::DXSECSERVER_DIR . "/toolkit";
     private $dxtConfigs = Cfg::DXSECSERVER_DIR . "/toolkit/config";
@@ -269,7 +269,7 @@ class DXT
         }
         $fusers = tempnam($this->dxtTmp, "$applianceId-users.");
         file_put_contents($fusers, "# operation,username,first_name,last_name,email address,work_phone,home_phone,cell_phone,type(NATIVE|LDAP),principal_credential,password,admin_priv,js_user\n", FILE_APPEND);
-        if ($action == "C" || $action == "U") {
+        if ($action == "C" || $action == "U" || $action == "c" || $action == "u") {
             //Create or update users
             file_put_contents($fusers, "$action,$username,$name,$surname,$email,,,,NATIVE,,$password,$jetstream\n", FILE_APPEND);
             $cmd = $this->prepareCmd("dx_ctl_users", "dxtools.conf.$applianceId", "-action import -file $fusers");
@@ -278,7 +278,7 @@ class DXT
             $cmd = $this->prepareCmd("dx_ctl_users", "dxtools.conf.$applianceId", "-action password -username $username -password $password");
             $response = shell_exec($cmd);
 
-        } else if ($action == "D") {
+        } else if ($action == "D" || $action == "d") {
             file_put_contents($fusers, "$action,$username,,,,,,,,,,\n", FILE_APPEND);
             $cmd = $this->prepareCmd("dx_ctl_users", "dxtools.conf.$applianceId", "-action import -file $fusers");
             $response = shell_exec($cmd);
@@ -329,7 +329,7 @@ password has to be specified
          mylogger("Creating environment with info: $applianceId, $envName, $envType, $hostname, $toolkitDir, $username");
          $addOpts="-envname $envName -envtype $envType -host $hostname -toolkitdir $toolkitDir ";
          $addOpts.=" -username $username -authtype password -password $password ";
-         if ($clusterName != "")
+         if ($clusterName !== "")
             $addOpts.="-clustername $clusterName -clusterloc $clusterLoc";
 
          $cmd = $this->prepareCmd("dx_create_env", "dxtools.conf.$applianceId", $addOpts);
@@ -372,7 +372,7 @@ OPTIONS
 */
      public function ctlReplication ($applianceId, $repName) {
          mylogger("Starting Replication with info: $applianceId, $repName");
-         $addOpts="-safe ";
+         $addOpts="-profilename $repName -safe ";
 
          $cmd = $this->prepareCmd("dx_ctl_replication", "dxtools.conf.$applianceId", $addOpts);
          $response = shell_exec($cmd);
@@ -381,7 +381,221 @@ OPTIONS
      }
 
 
+/*
+SYNOPSIS
+dx_provision_vdb [ -engine|d <delphix identifier> | -all ] [ -configfile file ]
+-group group_name
+-sourcename src_name
+-targetname targ_name
+-dbname db_name | -path vfiles_mountpoint
+-environment environment_name
+-type oracle|mssql|sybase|vFiles
+-envinst OracleHome/MSSQLinstance/SybaseServer
+[-creategroup]
+[-srcgroup Source group]
+[-timestamp LATEST_SNAPSHOT|LATEST_POINT|time_stamp]
+[-template template_name]
+[-mapfile mapping_file]
+[-instname SID]
+[-uniqname db_unique_name]
+[-mntpoint mount_point ]
+[-cdb container_name]
+[-noopen]
+[-truncateLogOnCheckpoint]
+[-archivelog yes/no]
+[-configureclone pathtoscript | operation_template_name ]
+[-prerefresh  pathtoscript | operation_template_name ]
+[-postrefresh pathtoscript | operation_template_name ]
+[-prerewind pathtoscript | operation_template_name ]
+[-postrewind pathtoscript | operation_template_name ]
+[-presnapshot pathtoscript | operation_template_name ]
+[-postsnapshot pathtoscript | operation_template_name ]
+[-prestart pathtoscript | operation_template_name ]
+[-poststart pathtoscript | operation_template_name ]
+[-prestop pathtoscript | operation_template_name ]
+[-poststop pathtoscript | operation_template_name ]
+[-prescript pathtoscript ]
+[-postscript pathtoscript ]
+[-recoveryModel model ]
+[-snapshotpolicy name]
+[-retentionpolicy name]
+[-additionalMount envname,mountpoint,sharedpath]
+[-rac_instance env_node,instance_name,instance_no ]
+[-redoGroup N]
+[-redoSize N]
+[-listeners listener_name]
+[-hooks path_to_hooks]
+[-envUser username]
+[-maskingjob jobname]
+[-autostart yes]
+[-vcdbname name]
+[-vcdbgroup groupname]
+[-vcdbdbname vcdb_name]
+[-vcdbuniqname vcdb_unique_name]
+[-vcdbinstname vcdb_instance_name]
+[-vcdbtemplate vcdb_template_name]
+[-help] [-debug]
 
+DESCRIPTION
+Provision VDB from a defined source on the defined target environment.
+
+ARGUMENTS
+Delphix Engine selection - if not specified a default host(s) from dxtools.conf will be used.
+-engine|d Specify Delphix Engine name from dxtools.conf file
+-all Display databases on all Delphix appliance
+-configfile file Location of the configuration file. A config file
+search order is as follow: - configfile parameter - DXTOOLKIT_CONF
+variable - dxtools.conf from dxtoolkit location
+
+VDB arguments
+-type type Type (oracle|mssql|sybase|vFiles)
+-group name Group Name
+-creategroup Specify this option to create a new group on Delphix Engine while proviioning a new VDB
+-sourcename name dSource Name
+-targetname name Target name
+-dbname name Target database name
+-path path Mount point location for vFiles
+-srcgroup Source group Group name where source is located
+-timestamp timestamp Time stamp formats:
+YYYY-MM-DD HH24:MI:SS or LATEST_POINT for point in time,
+
+@YYYY-MM-DDTHH24:MI:SS.ZZZ , YYYY-MM-DD HH24:MI or LATEST_SNAPSHOT for
+snapshots. @YYYY-MM-DDTHH24:MI:SS.ZZZ is a snapshot name from
+dx_get_snapshot, while YYYY-MM-DD HH24:MI is a snapshot time in GUI
+format
+
+Default is LATEST_SNAPSHOT
+
+-location location Point in time defined by SCN for Oracle and LSN for
+MS SQL
+-environment environment_name Target environment name
+-envinst environment_instance Target environment Oracle Home, MS SQL server instance, Sybase server name, etc
+-template template_name Target VDB template name (for Oracle)
+-mapfile filename Target VDB mapping file (for Oracle)
+-instname instance_name Target VDB instance name (for Oracle)
+-uniqname db_unique_name Target VDB db_unique_name (for Oracle)
+-mntpoint path Set a mount point for VDB (for Oracle and Sybase)
+-cdb container_name Set a target container database for vPDB
+-vcdbname name Set a virtual CDB name for vPDB
+-vcdbdbname name Set a virtual CDB database name for vPDB
+-vcdbuniqname vcdb_unique_name Set a virtual CDB unique database name
+for vPDB If not set, it will be equal to vcdbdbname
+-vcdbinstname vcdb_instance_name Set a virtual CDB instance name for
+vPDB If not set, it will be equal to vcdbdbname
+-vcdbgroup groupname Set a virtual CDB groupname
+-vcdbtemplate vcdb_template_name Set a virtual CDB template
+-noopen Don't open database after provision (for Oracle)
+-archivelog yes/no Create VDB in archivelog (yes - default) or noarchielog (no) (for Oracle)
+-truncateLogOnCheckpoint Truncate a log on checkpoint. Set this parameter to enable truncate operation (for Sybase)
+-snapshotpolicy policy_name Snapshot policy name for VDB
+-maskingjob jobname Name of masking job to use during VDB provisioning
+-retentionpolicy retention_policy Retention policy name for VDB
+-recoveryModel model Set a recovery model for MS SQL database. Allowed values BULK_LOGGED,FULL,SIMPLE
+-additionalMount envname,mountpoint,sharedpath Set an additinal mount point for vFiles - using a syntax
+    environment_name,mount_point,sharedpath
+     ex. -additionalMount target1,/u01/app/add,/
+
+-rac_instance env_node,instance_name,instance_no Comma separated
+    information about node name, instance name and instance number for a RAC
+    provisioning Repeat option if you want to provide information for more
+    nodes
+     ex. -rac_instance node1,VBD1,1 -rac_instance node2,VBD2,2
+
+-redoGroup N Create N redo groups
+-redoSize N Each group will be N MB in size
+-listeners listener_name Use listener named listener_name
+-hooks path_to_hooks Import hooks exported using dx_get_hooks
+-envUser username Use an environment user "username" for provisioning database
+-autostart yes Set VDB autostart flag to yes. Default is no
+
+OPTIONS
+    -help Print usage information
+    -debug Turn on debugging
+
+EXAMPLES
+    Provision an Oracle VDB using latest snapshot
+     dx_provision_vdb -d Landshark -sourcename "Employee Oracle DB" -dbname autoprov -targetname autoprov -group Analytics
+                      -environment LINUXTARGET -type oracle -envinst "/u01/app/oracle/product/11.2.0/dbhome_1"
+
+    Provision an Oracle vPDB using a virtual vCDB
+     dx_provision_vdb -d Landshark -type oracle -group "test" -creategroup -sourcename "PDBX1"  -srcgroup "Sources" -targetname "vPDBtest"  -dbname "vPDBtest" -environment "marcintgt"  -envinst "/u01/app/ora12102/product/12.1.0/dbhome_1"  -envUser "ora12102"  \
+     -vcdbtemplate slon -vcdbname ala -vcdbdbname slon -vcdbgroup test -mntpoint "/mnt/provision"
+
+    Provision a Sybase VDB using a latest snapshot
+     dx_provision_vdb -d Landshark -group Analytics -sourcename 'ASE pubs3 DB' -targetname testsybase -dbname testsybase -environment LINUXTARGET -type sybase -envinst LINUXTARGET
+
+    Provision a Sybase VDB using a snapshot name "@2015-09-08T08:46:47.000"
+    (to list snapshots use dx_get_snapshots)
+     dx_provision_vdb -d Landshark -group Analytics -sourcename 'ASE pubs3 DB' -targetname testsybase -dbname testsybase -environment LINUXTARGET -type sybase -envinst LINUXTARGET -timestamp "@2015-09-08T08:46:47.000"
+
+    Provision a vFiles using a latest snapshot
+     dx_provision_vdb -d Landshark43 -group Analytics -sourcename "files" -targetname autofs -path /mnt/provision/home/delphix -environment LINUXTARGET -type vFiles
+
+    Provision a empty vFiles
+     dx_provision_vdb -d Landshark5 -type vFiles -group "Test" -creategroup -empty -targetname "vFiles" -dbname "/home/delphix/de_mount" -environment "LINUXTARGET" -envinst "Unstructured Files"  -envUser "delphix"
+
+    Provision a MS SQL using a latest snapshot
+     dx_provision_vdb -d Landshark -group Analytics -sourcename AdventureWorksLT2008R2 -targetname autotest - dbname autotest -environment WINDOWSTARGET -type mssql -envinst MSSQLSERVER
+
+    Provision a MS SQL using a snapshot from "2015-09-23 10:23"
+     dx_provision_vdb -d Landshark -group Analytics -sourcename AdventureWorksLT2008R2 -targetname autotest - dbname autotest -environment WINDOWSTARGET -type mssql -envinst MSSQLSERVER -timestamp "2015-09-23 10:23"
+*/
+
+
+    public function ctlProvisionOracleVDB ($applianceId, $sourceName, $targetName,
+                                           $group, $env, $envInst, $timeStamp="", $dbName="",$uniqueName="", $template="", $noOpen="",
+                                           $archivelog="yes", $redoGroup="", $redoSize="", $listener="", $maskingJob="" ) {
+
+        mylogger("Creating Oracle VDB with info: $applianceId, $sourceName, $dbName, $targetName, $group, $env, $envInst, $timeStamp, $uniqueName, $template, $noOpen,$archivelog, $redoGroup, $redoSize, $listener, $maskingJob");
+
+        $addOpts = "-sourcename $sourceName -targetname $targetName -group $group ";
+        $addOpts .= " -environment $env -type oracle -envinst $envInst -archivelog $archivelog ";
+        $addOpts .= ($timeStamp !== "" ? " -timestamp $timeStamp" : "");
+        $addOpts .= ($dbName !== "" ? " -dbname $dbName" : "");
+        $addOpts .= ($uniqueName !== "" ? " -uniqname $uniqueName" : "");
+        $addOpts .= ($template !== "" ? " -template $template" : "");
+        $addOpts .= ($noOpen !== "" ? " -noopen" : "");
+        $addOpts .= ($redoGroup !== "" ? " -redoGroup $redoGroup" : "");
+        $addOpts .= ($redoSize !== "" ? " -redoSize $redoSize" : "");
+        $addOpts .= ($listener !== "" ? " -listeners $listener" : "");
+        $addOpts .= ($maskingJob !== "" ? " -maskingjob $maskingJob" : "");
+
+        $cmd = $this->prepareCmd("dx_create_env", "dxtools.conf.$applianceId", $addOpts);
+        $response = shell_exec($cmd);
+
+        return $response;
+    }
+
+
+    public function ctlProvisionVFiles ($applianceId, $sourceName, $targetName,
+                                        $group, $env, $envInst="Unstructured Files", $timeStamp="", $dbName="", $maskingJob="" ) {
+
+        mylogger("Creating VFiles with info: $applianceId, $sourceName, $dbName, $targetName, $group, $env, $envInst, $timeStamp, $maskingJob");
+
+        $addOpts = "-sourcename $sourceName -targetname $targetName -group $group ";
+        $addOpts .= " -environment $env -type vFiles -envinst \"$envInst\" ";
+        $addOpts .= ($timeStamp !== "" ? " -timestamp $timeStamp" : "");
+        $addOpts .= ($dbName !== "" ? " -dbname $dbName" : "");
+        $addOpts .= ($maskingJob !== "" ? " -maskingjob $maskingJob" : "");
+
+        $cmd = $this->prepareCmd("dx_create_env", "dxtools.conf.$applianceId", $addOpts);
+        $response = shell_exec($cmd);
+
+        return $response;
+    }
+
+    public function ctlProvisionEmptyVFiles ($applianceId, $targetName, $group, $env, $envInst="Unstructured Files", $dbName="") {
+
+        mylogger("Creating VFiles with info: $applianceId, $sourceName, $dbName, $targetName, $group, $env, $envInst, $timeStamp, $empty, $maskingJob");
+
+        $addOpts = "-empty -targetname $targetName -group $group ";
+        $addOpts .= " -environment $env -type vFiles -envinst \"$envInst\" ";
+        $addOpts .= ($dbName !== "" ? " -dbname $dbName" : "");
+        $cmd = $this->prepareCmd("dx_create_env", "dxtools.conf.$applianceId", $addOpts);
+        $response = shell_exec($cmd);
+
+        return $response;
+    }
 
 
 
