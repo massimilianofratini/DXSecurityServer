@@ -136,9 +136,11 @@ class DXT
     private $dxtPath = Cfg::DXSECSERVER_DIR . "/toolkit";
     private $dxtConfigs = Cfg::DXSECSERVER_DIR . "/toolkit/config";
     private $dxtTemplates = Cfg::DXSECSERVER_DIR . "/toolkit/template";
-    
-    private function prepareCmd ($dxtCmd, $cfgFile, $addOpts="") {
-        $pCmd = "$this->dxtPath/_CMDNAME_ -configfile $this->dxtConfigs/_CFGFILE_ -all -format json _ADDLOPTS_ ";
+    private $dxtTmp = Cfg::DXSECSERVER_DIR . "/toolkit/tmp";
+
+    private function prepareCmd($dxtCmd, $cfgFile, $addOpts = "")
+    {
+        $pCmd = "$this->dxtPath/_CMDNAME_ -configfile $this->dxtConfigs/_CFGFILE_ -all _ADDLOPTS_ ";
         $pCmd = str_replace("_CMDNAME_", $dxtCmd, $pCmd);
         $pCmd = str_replace("_CFGFILE_", $cfgFile, $pCmd);
         $pCmd = str_replace("_ADDLOPTS_", $addlOpts, $pCmd);
@@ -146,119 +148,245 @@ class DXT
         return $pCmd;
     }
 
-    public function getAppliance( $applianceId )
+    public function getAppliance($applianceId)
     {
         mylogger("Getting appliance info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_appliance", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_appliance", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
 
-    public function getAudit( $applianceId )
+    public function getAudit($applianceId)
     {
         mylogger("Getting audit info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_audit", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_audit", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getCapacity( $applianceId )
+    public function getCapacity($applianceId)
     {
         mylogger("Getting capacity info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_capacity", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_capacity", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getDBEnv( $applianceId )
+    public function getDBEnv($applianceId)
     {
         mylogger("Getting DB Env info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_db_env", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_db_env", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getEnv( $applianceId )
+    public function getEnv($applianceId)
     {
         mylogger("Getting Environments info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_env", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_env", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getFaults( $applianceId )
+    public function getFaults($applianceId)
     {
         mylogger("Getting Faults info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_faults", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_faults", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getJobs( $applianceId )
+    public function getJobs($applianceId)
     {
         mylogger("Getting Jobs info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_jobs", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_jobs", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getJobs( $applianceId )
+    public function getJobs($applianceId)
     {
         mylogger("Getting Jobs info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_jobs", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_jobs", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getOpTemplate( $applianceId )
+    public function getOpTemplate($applianceId)
     {
         mylogger("Getting Operations Templates info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_op_template", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_op_template", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getUsers( $applianceId )
+    public function getUsers($applianceId)
     {
         mylogger("Getting Users info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_users", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_users", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getTemplate( $applianceId )
+    public function getTemplate($applianceId)
     {
         mylogger("Getting Templates info for: $applianceId");
         if (!file_exists($this->dxtTemplates)) {
-            mkdir($this->dxtTemplates, 0777, true);
+            mkdir($this->dxtTemplates, 0775, true);
         }
-        $cmd = $this->prepareCmd("dx_get_template", "dxtools.conf.$applianceId", "-export -outdir $this->dxtTemplates/template.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_template", "dxtools.conf.$applianceId", "-export -outdir $this->dxtTemplates/template.$applianceId -format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
-    public function getReplication( $applianceId )
+    public function getReplication($applianceId)
     {
         mylogger("Getting Replication info for: $applianceId");
-        $cmd = $this->prepareCmd("dx_get_replication", "dxtools.conf.$applianceId");
+        $cmd = $this->prepareCmd("dx_get_replication", "dxtools.conf.$applianceId", "-format json");
         $response = shell_exec($cmd);
 
         return $response;
     }
 
+    public function ctlUsers($applianceId, $action, $username, $password = "", $name = "autocreated", $surname = "autocreated", $email = "autocreated@delphix.local", $profile = "", $jetstream = "N")
+    {
+        mylogger("Managing users on engine with the following info: $applianceId, $action, $username, ***, $profile");
+        //Create users file
+        if (!file_exists($this->dxtTmp)) {
+            mkdir($this->dxtTmp, 0775, true);
+        }
+        $fusers = tempnam($this->dxtTmp, "$applianceId-users.");
+        file_put_contents($fusers, "# operation,username,first_name,last_name,email address,work_phone,home_phone,cell_phone,type(NATIVE|LDAP),principal_credential,password,admin_priv,js_user\n", FILE_APPEND);
+        if ($action == "C" || $action == "U") {
+            //Create or update users
+            file_put_contents($fusers, "$action,$username,$name,$surname,$email,,,,NATIVE,,$password,$jetstream\n", FILE_APPEND);
+            $cmd = $this->prepareCmd("dx_ctl_users", "dxtools.conf.$applianceId", "-action import -file $fusers");
+            $response = shell_exec($cmd);
+            //Call change password just in case it changed
+            $cmd = $this->prepareCmd("dx_ctl_users", "dxtools.conf.$applianceId", "-action password -username $username -password $password");
+            $response = shell_exec($cmd);
 
-/**/
+        } else if ($action == "D") {
+            file_put_contents($fusers, "$action,$username,,,,,,,,,,\n", FILE_APPEND);
+            $cmd = $this->prepareCmd("dx_ctl_users", "dxtools.conf.$applianceId", "-action import -file $fusers");
+            $response = shell_exec($cmd);
+        }
 
+        return $response;
+    }
+
+/*
+Options -envname, -envtype, -host, -toolkitdir, -username and -authtype are required.
+Usage:
+dx_create_env [ -engine|d <delphix identifier> | -all ] [ -configfile file ] -envname environmentname -envtype unix | windows -host hostname
+-toolkitdir toolkit_directory | -proxy proxy
+-username user_name -authtype password | systemkey [ -password password ]
+[-clustername name]
+[-clusterloc loc]
+[-sshport port]
+[-asedbuser user]
+[-asedbpass password]
+[ -version ] [ -help ] [ -debug ]
+
+Arguments:
+Delphix Engine selection - if not specified a default host(s) from
+dxtools.conf will be used.
+
+-engine|d Specify Delphix Engine name from dxtools.conf file
+-all Display databases on all Delphix appliance
+-configfile file Location of the configuration file. A config file
+search order is as follow: - configfile parameter - DXTOOLKIT_CONF
+variable - dxtools.conf from dxtoolkit location
+-envname environmentname Environment name
+-envtype type Environment type - windows or unix
+-host hostname Host name / IP of server being added to Delphix Engine
+-toolkitdir toolkit_directory Location for toolkit directory for
+Unix/Linux or location of Delphix Connector directory for Windows
+-proxy proxy Proxy server used to access dSource
+-username user_name Server user name
+-authtype password | systemkey Authorization type - password or SSH key
+-password password If password is specified as authtype - a user
+password has to be specified
+-clustername name Cluser name (CRS name for RAC)
+-clusterloc loc Cluser location (CRS home for RAC)
+-sshport port SSH port
+-asedbuser user ASE DB user for source detection
+-asedbpass password ASE DB password for source detection
+*/
+     public function ctlCreateEnv ($applianceId, $envName, $envType, $hostname, $toolkitDir, $username, $password, $clusterName="", $clusterLoc="") {
+         mylogger("Creating environment with info: $applianceId, $envName, $envType, $hostname, $toolkitDir, $username");
+         $addOpts="-envname $envName -envtype $envType -host $hostname -toolkitdir $toolkitDir ";
+         $addOpts.=" -username $username -authtype password -password $password ";
+         if ($clusterName != "")
+            $addOpts.="-clustername $clusterName -clusterloc $clusterLoc";
+
+         $cmd = $this->prepareCmd("dx_create_env", "dxtools.conf.$applianceId", $addOpts);
+         $response = shell_exec($cmd);
+
+         return $response;
+     }
+
+
+/*
+SYNOPSIS
+dx_ctl_replication [-engine|d <delphix identifier> | -all ]
+-profilename profile
+[-safe]
+[-nowait]
+[-help|?]
+[-debug ]
+
+DESCRIPTION
+Start an replication using a profile name
+
+ARGUMENTS
+Delphix Engine selection - if not specified a default host(s) from
+dxtools.conf will be used.
+
+-engine|d Specify Delphix Engine name from dxtools.conf file
+-all Display databases on all Delphix appliance
+-configfile file Location of the configuration file. A config file
+search order is as follow: - configfile parameter - DXTOOLKIT_CONF
+variable - dxtools.conf from dxtoolkit location
+-profilename profile Specify a profile name to run
+
+OPTIONS
+-nowait Don't wait for a replication job to complete. Job will be
+    running in backgroud.
+    -safe Enable "safe" replication. If there was a VDB/dSource deletion
+    operation on primary engine, replication job won't be started
+-help Print this screen
+-debug Turn on debugging
+*/
+     public function ctlReplication ($applianceId, $repName) {
+         mylogger("Starting Replication with info: $applianceId, $repName");
+         $addOpts="-safe ";
+
+         $cmd = $this->prepareCmd("dx_ctl_replication", "dxtools.conf.$applianceId", $addOpts);
+         $response = shell_exec($cmd);
+
+         return $response;
+     }
+
+
+
+
+
+
+//End class
 }
+
+
+?>
